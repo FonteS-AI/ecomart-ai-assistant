@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+ENV/
+chatbot/
+
+# --- Pastas do curso e exemplos locais ---
+curso_2_openai/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Secrets ---
+.env
+*.env
+assistentes.json
+
+# --- IDE ---
+.vscode/
+.idea/
